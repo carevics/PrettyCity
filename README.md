@@ -9,5 +9,6 @@ The city consists of:
 * Cinema
 * Policestation
 * Street Lights
+* Traffic Lights
 
 The repository is used for sharing all code, documentation, schematics etc. between the project members. 
