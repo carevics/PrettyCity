@@ -1,5 +1,5 @@
-Project Pretty City
-===================
+Project Embedded City
+=====================
 This repository is used for project "Pretty City". Pretty City is a small Lego village, which has to be expanded with different kind of electronics to make the city pretty.
 
 The city consists of:
